@@ -34,7 +34,7 @@ You can run the CheckID app either by **cloning the repository using Git** or by
    First, clone the CheckID repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/iqlip/CheckID.git
+   git clone https://github.com/iqlipx/CheckID.git
    ```
 2. **Navigate to the Project Directory**:
    
