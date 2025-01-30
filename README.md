@@ -1,4 +1,4 @@
-# CheckID - Web Tool for Chess.com and Steam Profile Lookup
+# CheckID - Chess & Steam Profile Lookup
 
 CheckID is a web tool that lets you search and view user profiles from **Chess.com** and **Steam**. By entering a username, you can access profile details such as avatars, usernames, account creation date, and more. The tool provides a clean, dynamic interface that updates results in real-time. 💻✨
 
