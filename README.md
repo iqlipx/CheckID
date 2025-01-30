@@ -50,6 +50,10 @@ You can run the CheckID app either by **cloning the repository using Git** or by
 
     ```bash
     npm install
+
+    AND
+
+    npm install vite
     ```
 
 4. **Run the Development Server**:
